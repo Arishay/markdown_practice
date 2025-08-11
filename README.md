@@ -49,7 +49,7 @@ Images
 1. Open the file containing the Linux mascot.
 2. Marvel at its beauty.
 
-    ![Tux, the Linux mascot](/assets/images/tux.png)
+    ![Beautiful sunset]([/assets/images/tux.png](https://img.freepik.com/free-photo/sunset-time-tropical-beach-sea-with-coconut-palm-tree_74190-1075.jpg?semt=ais_hybrid&w=740&q=80))
 
 3. Close the file.
 The rendered output looks like this:
