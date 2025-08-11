@@ -43,3 +43,20 @@ I am in 11 __class__  and in _tcf college_ ***I got admission with alot of strug
           </head>
 
 3. Update the title to match the name of your website.
+
+
+Images
+1. Open the file containing the Linux mascot.
+2. Marvel at its beauty.
+
+    ![Tux, the Linux mascot](/assets/images/tux.png)
+
+3. Close the file.
+The rendered output looks like this:
+
+Open the file containing the Linux mascot.
+Marvel at its beauty.
+
+Tux, the Linux mascot
+
+Close the file.
