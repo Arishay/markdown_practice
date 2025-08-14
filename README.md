@@ -82,3 +82,15 @@ heading two
 <h1>This is heading one</h1>
 </html>
 ```
+
+# list:
+
+-fruits
+ -apple
+ -banana
+ -mango
+-veg
+ -potato
+ -onion
+ -tomato
+ 
