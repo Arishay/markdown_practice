@@ -117,3 +117,7 @@ this is line two **[Dick docl](https://youtube.com "best engine")**
 thia ia an image [happy][1], this is it.
 
 [1]: https://i.pinimg.com/736x/0a/50/d5/0a50d57fb5b8d4678d22dbcb11ce150b.jpg
+
+This is a curly brace: {example}
+
+This is a curly brace: \{example\}
