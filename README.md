@@ -76,4 +76,6 @@ heading two
      <title>Test</title>
 </head>
 
-<pre> ```html <html> <head> <title>Test</title> </head> </html> ``` </pre>
+```
+<html><title>test<title/></html>
+```
