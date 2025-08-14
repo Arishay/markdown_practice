@@ -85,12 +85,12 @@ heading two
 
 # list:
 
--fruits
- -apple
- -banana
- -mango
--veg
- -potato
- -onion
- -tomato
+- fruits
+  - apple
+  - banana
+  - mango
+- veg
+  - potato
+  - onion
+  - tomato
  
