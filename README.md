@@ -71,10 +71,7 @@ heading two
 <h1>my name</h1>
 
 -Open the line 32 and write; 
- <html>
-   <body>
-    <h1>
-      My name is arisha
-    </h1>
-  </body>
- </html>
+<html>
+   <head>
+     <title>Test</title>
+   </head>
