@@ -1,4 +1,4 @@
-# Heading1
+this# Heading1
 #### Heading
 
 My name is **Arisha Ghaffar** and my father name is *Abdul Ghaffar*.
@@ -94,3 +94,20 @@ heading two
   - onion
   - tomato
  
+this is line one 
+
+---
+
+this is line two
+
+this is line one 
+
+___
+
+this is line two
+
+this is line one 
+
+***
+
+this is line two
