@@ -77,5 +77,8 @@ heading two
 </head>
 
 ```
-<html><title>test<title/></html>
+<html>
+<title>test<title/>
+<h1>This is heading one</h1>
+</html>
 ```
