@@ -121,3 +121,5 @@ thia ia an image [happy][1], this is it.
 This is a curly brace: {example}
 
 This is a curly brace: \{example\}
+
+That is so funny! :joy:
