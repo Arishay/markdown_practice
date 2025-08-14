@@ -74,4 +74,4 @@ heading two
 <html>
    <head>
      <title>Test</title>
-   </head>
+</head>
